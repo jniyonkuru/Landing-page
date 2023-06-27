@@ -1,5 +1,6 @@
 # Landing-project
 # a clinic website
 # author: jacques Niyonkuru
-#part of the course
-#css layout and HTML
+# check the project
+jniyonkuru.github.io/Landing-project
+
