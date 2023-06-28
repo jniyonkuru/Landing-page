@@ -2,5 +2,5 @@
 # a clinic website
 # author: jacques Niyonkuru
 # check the project
-jniyonkuru.github.io/Landing-project
+# https://jniyonkuru.github.io/Landing-project/
 
